@@ -68,7 +68,7 @@ except Exception:
 
 #----------------------------------------------------------------------------------------------
 # 3. Tuning Hyper Parameters for Models (1.rf 2.et 3.gbr 4.ada)
-n_iteration = 5
+n_iteration = 1
 
 # 3.1 Random Forest
 rf = RandomForestRegressor()
